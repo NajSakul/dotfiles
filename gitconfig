@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = luk.hartung@gmail.com
+	name = Lukas Hartung
